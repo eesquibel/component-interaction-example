@@ -1,0 +1,23 @@
+[
+  {
+    "Title" : "Girls of Paper and Fire",
+    "Author" : "Natasha Ngan",
+    "ISBN" : "0316561363",
+    "ISBN13" : "9780316561365",
+    "Cover" : "https://images.gr-assets.com/books/1518109125l/34433755.jpg"
+  },
+  {
+    "Title" : "Archenemies",
+    "Author" : "Marissa Meyer",
+    "ISBN" : "1250311446",
+    "ISBN13" : "9781250311443",
+    "Cover" : "https://images.gr-assets.com/books/1526668679l/35425827.jpg"
+  },
+  {
+    "Title" : "Fire & Blood",
+    "Author" : "George R.R. Martin",
+    "ISBN" : "152479628X",
+    "ISBN13" : "9781524796280",
+    "Cover" : "https://images.gr-assets.com/books/1532828095l/39943621.jpg"
+  }
+]

@@ -1,0 +1,5 @@
+<h2>{{ Genre.Name }}</h2>
+
+<ng-container *ngIf="Books">
+  <example-book-preview *ngFor="let book of Books | async" [Genre]="Genre" [Book]="book"></example-book-preview>
+</ng-container>
